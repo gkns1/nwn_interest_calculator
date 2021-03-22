@@ -1,0 +1,1105 @@
+nwsync: reconfigured successfully
+Error: 40964
+Error: 40964
+Error: 40964
+Game is using local port: 51654
+Your cryptographic public identity is: g5q+tdfMV2hBGYPbDwM5O5lfJD+6YhItF7u6y4qJbCQ=
+*** ValidateGFFResource sent by user.
+GOG: Authentication failed: 2
+*** ValidateGFFResource sent by user.
+*** ValidateGFFResource sent by user.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:11:20] Twój dziennik zosta³ zaktualizowany. Spo³ecznoœæ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:11:20] Twój dziennik zosta³ zaktualizowany. Kontakt
+[CHAT WINDOW TEXT] [Mon Mar 22 08:11:20] Twój dziennik zosta³ zaktualizowany. Regulamin
+[CHAT WINDOW TEXT] [Mon Mar 22 08:11:20] Twój dziennik zosta³ zaktualizowany. Dla nowych graczy
+[CHAT WINDOW TEXT] [Mon Mar 22 08:11:20] Twój dziennik zosta³ zaktualizowany. System XP
+[CHAT WINDOW TEXT] [Mon Mar 22 08:11:20] Twój dziennik zosta³ zaktualizowany. Œmieræ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:11:20] Twój dziennik zosta³ zaktualizowany. Okrzyki Klas Bojowych
+[CHAT WINDOW TEXT] [Mon Mar 22 08:11:20] Twój dziennik zosta³ zaktualizowany. Zestawy
+[CHAT WINDOW TEXT] [Mon Mar 22 08:11:20] Twój dziennik zosta³ zaktualizowany. Zmiany: Czary (1/2)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:11:20] Twój dziennik zosta³ zaktualizowany. Zmiany: Czary (2/2)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:11:20] Twój dziennik zosta³ zaktualizowany. Zmiany: Umiejêtnoœci
+[CHAT WINDOW TEXT] [Mon Mar 22 08:11:20] Twój dziennik zosta³ zaktualizowany. Zmiany: Klasy (1/2)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:11:20] Twój dziennik zosta³ zaktualizowany. Zmiany: Klasy (2/2)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:11:21] gracz_ktory_nie_spi do³¹cza jako gracz..
+[CHAT WINDOW TEXT] [Mon Mar 22 08:11:23] [Serwer]You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:11:23] Discord serwera: discord.gg/qyeZazGuK5
+[CHAT WINDOW TEXT] [Mon Mar 22 08:11:23] Discord serwera: discord.gg/qyeZazGuK5
+[CHAT WINDOW TEXT] [Mon Mar 22 08:11:24] Discord serwera: discord.gg/qyeZazGuK5
+[CHAT WINDOW TEXT] [Mon Mar 22 08:11:24] Discord serwera: discord.gg/qyeZazGuK5
+[CHAT WINDOW TEXT] [Mon Mar 22 08:11:25] Discord serwera: discord.gg/qyeZazGuK5
+[CHAT WINDOW TEXT] [Mon Mar 22 08:11:26] Vlad Karenikov: Witaj w moim ma³y królestwie. Rzucisz okiem na moje towary?
+Vlad Karenikov: [Talk] Witaj w moim ma³y królestwie. Rzucisz okiem na moje towary? 
+[CHAT WINDOW TEXT] [Mon Mar 22 08:11:27] Czarek Czarowarek: Tak, chêtnie zobaczê co masz na sprzeda¿.
+[gracz_ktory_nie_spi] Czarek Czarowarek: [Talk] Tak, chêtnie zobaczê co masz na sprzeda¿. 
+[CHAT WINDOW TEXT] [Mon Mar 22 08:11:27] [Wycena]: Reakcja kupca jest pozytywna.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:11:50] [Serwer]You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:12:11] [Serwer]You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:12:21] Norin Cars: Witaj, dziêki ci za pomoc w uzyskaniu prawa do budynku, w którym znajdowa³ siê sierociniec. Jestem ci naprawde wdziêczny, jako dowód poka¿e Ci pe³ny asortyment naszego sklepu i to po ni¿szych cenach. Czy móg³bym ci jeszcze jakos pomóc?
+Norin Cars: [Talk] Witaj, dziêki ci za pomoc w uzyskaniu prawa do budynku, w którym znajdowa³ siê sierociniec. Jestem ci naprawde wdziêczny, jako dowód poka¿e Ci pe³ny asortyment naszego sklepu i to po ni¿szych cenach. Czy móg³bym ci jeszcze jakos pomóc? 
+[CHAT WINDOW TEXT] [Mon Mar 22 08:12:23] Czarek Czarowarek: Chcia³bym zakupiæ troche rzeczy... mikstur, zwojów.
+[gracz_ktory_nie_spi] Czarek Czarowarek: [Talk] Chcia³bym zakupiæ troche rzeczy... mikstur, zwojów. 
+[CHAT WINDOW TEXT] [Mon Mar 22 08:12:23] Norin Cars: Oczywiscie, oto nasze zapasy.
+Norin Cars: [Talk] Oczywiscie, oto nasze zapasy. 
+[CHAT WINDOW TEXT] [Mon Mar 22 08:12:23] [Wycena]: Reakcja kupca jest negatywna.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:12:35] [Serwer]You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:12:56] [Serwer]You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:13:13] [Serwer]You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:13:16] Old Gucio do³¹cza jako gracz..
+[CHAT WINDOW TEXT] [Mon Mar 22 08:13:25] [Serwer]You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:13:51] [Serwer]You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:14:05] [Serwer]You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:14:18] [Serwer]You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:14:23] Czarek Czarowarek rzuca Wiêksze Sanktuarium
+[CHAT WINDOW TEXT] [Mon Mar 22 08:14:24] Czarek Czarowarek rzuca Wiêksze Sanktuarium
+[CHAT WINDOW TEXT] [Mon Mar 22 08:14:28] Czarek Czarowarek rzuca Ulepszona Niewidzialnoœæ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:14:29] Czarek Czarowarek rzuca Ulepszona Niewidzialnoœæ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:14:42] [Serwer]You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:14:56] [Serwer]You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:15:26] [Serwer]You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:15:42] Otrzymany Przedmiot: Smocza Krew
+[CHAT WINDOW TEXT] [Mon Mar 22 08:15:49] Otrzymany Przedmiot: Mikstura Leczenia Krytycznych Ran
+[CHAT WINDOW TEXT] [Mon Mar 22 08:15:49] Zyskano 2562SZ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:15:51] Zyskano 2316SZ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:15:54] Zyskano 2304SZ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:15:57] Zyskano 2784SZ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:15:57] Otrzymany Przedmiot: Z³oty Naszyjnik
+[CHAT WINDOW TEXT] [Mon Mar 22 08:16:00] Otrzymany Przedmiot: Mikstura Leczenia Krytycznych Ran
+[CHAT WINDOW TEXT] [Mon Mar 22 08:16:00] Zyskano 2406SZ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:16:03] Zyskano 1986SZ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:16:21] [Serwer]You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:16:39] [Serwer]You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:16:55] [Serwer]You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:02] Uniewiel Latonesh - postaæ jest otoczona aur¹.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:06] Czarek Czarowarek rzuca Tarcza Cieni
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:07] Czarek Czarowarek rzuca Tarcza Cieni
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:09] Czarek Czarowarek rzuca Tarcza ¯ywio³ów
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:10] Czarek Czarowarek rzuca Tarcza ¯ywio³ów
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:12] Czarek Czarowarek rzuca Zbroja Œmierci
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:13] Czarek Czarowarek rzuca Zbroja Œmierci
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:15] Czarek Czarowarek rzuca Kwasowa Opoka Mestila
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:16] Czarek Czarowarek rzuca Kwasowa Opoka Mestila
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:18] Czarek Czarowarek rzuca Tarcza Cieni
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:20] Czarek Czarowarek rzuca Tarcza Cieni
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:20] U¿ywasz dwóch lub wiêcej przedmiotów, które daj¹ premiê do naturalnej KP. Ich dzia³anie nie bêdzie siê sumowaæ.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:21] Czarek Czarowarek rzuca Klosz Niewra¿liwoœci
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:23] Czarek Czarowarek rzuca Klosz Niewra¿liwoœci
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:26] Czarek Czarowarek rzuca Epicki czar: Epicka tarcza
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:32] Valendur Jr'ein rzuca Burza Zemsty
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:33] Czarek Czarowarek rzuca Mia¿d¿¹ca D³oñ Bigby’ego
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:33] Valendur Jr'ein rzuca Burza Zemsty
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:35] Czarek Czarowarek rzuca Mia¿d¿¹ca D³oñ Bigby’ego
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:35] Valendur Jr'ein : Rzut obronny, Refleks : *niepowodzenie* : (16 + 26 = 42 przeciwko ST: 45)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:35] Valendur Jr'ein : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 2 pkt. z  - Fizyczne
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:35] Czarek Czarowarek : Rzut na inicjatywê : 10 : (11 - 1 = 10)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:35] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 18 (18 - Fizyczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:35] *Cel pochwycony*
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:36] Czarek Czarowarek rzuca Mocarna D³oñ Bigby’ego
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:38] Czarek Czarowarek rzuca Mocarna D³oñ Bigby’ego
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:38] Uniewiel Latonesh : Rzut obronny, Refleks : *sukces* : (16 + 31 = 47 przeciwko ST: 42)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:38] Uniewiel Latonesh atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (17 + 57 = 74)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:38] Uniewiel Latonesh atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (4 + 52 = 56)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:39] Czarek Czarowarek rzuca Mocarna D³oñ Bigby’ego
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:40] Uniewiel Latonesh atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (16 + 47 = 63)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:41] Czarek Czarowarek rzuca Mocarna D³oñ Bigby’ego
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:41] Uniewiel Latonesh atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (19 + 42 = 61)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:41] Uniewiel Latonesh : Rzut obronny, Refleks : *sukces* : (13 + 31 = 44 przeciwko ST: 42)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:41] Valendur Jr'ein : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 1 pkt. z  - Fizyczne
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:41] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 16 (16 - Fizyczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:42] Czarek Czarowarek rzuca Mocarna D³oñ Bigby’ego
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:42] Uniewiel Latonesh atakuje: Czarek Czarowarek : *trafienie krytyczne* : (20 + 57 = 77: Rzut na mo¿liwoœæ trafienia krytycznego: 3 + 57 = 60)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:43] Czarek Czarowarek : Koncentracja : *sukces* : (20 + 91 = 111 przeciwko ST: 74)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:43] Uniewiel Latonesh zadaje obra¿enia: Czarek Czarowarek: 58 (54 - Fizyczne 4 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:43] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 50 pkt. obra¿eñ : Pozostaje: 1850 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:43] Czarek Czarowarek : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 4 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:43] Czarek Czarowarek rzuca Mocarna D³oñ Bigby’ego
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:44] Uniewiel Latonesh : Rzut obronny, Refleks : *niepowodzenie* : (5 + 31 = 36 przeciwko ST: 42)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:44] Uniewiel Latonesh : Odpornoœæ na Czary umys³u.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:44] Bycza szar¿a udana
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:44] Uniewiel Latonesh atakuje: Czarek Czarowarek : *trafienie* : (5 + 57 = 62)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:44] Uniewiel Latonesh atakuje: Czarek Czarowarek : *trafienie* : (7 + 52 = 59)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:45] Uniewiel Latonesh zadaje obra¿enia: Czarek Czarowarek: 2 (0 - Fizyczne 2 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:45] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 34 pkt. obra¿eñ : Pozostaje: 1816 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:45] Czarek Czarowarek : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 2 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:45] Uniewiel Latonesh zadaje obra¿enia: Czarek Czarowarek: 1 (0 - Fizyczne 1 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:45] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 33 pkt. obra¿eñ : Pozostaje: 1783 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:45] Czarek Czarowarek : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 1 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:47] Valendur Jr'ein : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 2 pkt. z  - Fizyczne
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:47] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 18 (18 - Fizyczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:53] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:54] Valendur Jr'ein : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 2 pkt. z  - Fizyczne
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:54] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 22 (22 - Fizyczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:55] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:56] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:56] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:56] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:56] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:56] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:56] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:56] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:57] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:57] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:57] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:59] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:59] Valendur Jr'ein : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 2 pkt. z  - Fizyczne
+[CHAT WINDOW TEXT] [Mon Mar 22 08:17:59] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 22 (22 - Fizyczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:01] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:02] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:02] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:02] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:02] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:02] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:02] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:02] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:02] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:02] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:03] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:03] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:03] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:03] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:03] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:03] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:03] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:03] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:03] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:03] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:03] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:03] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:05] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:06] Valendur Jr'ein : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 2 pkt. z  - Fizyczne
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:06] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 22 (22 - Fizyczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:07] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:07] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:07] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:07] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:07] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:07] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:07] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:07] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:07] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:07] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:08] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:09] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:10] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:11] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:11] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:11] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:11] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:11] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:11] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:11] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:11] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:11] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:12] Valendur Jr'ein : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 2 pkt. z  - Fizyczne
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:12] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 22 (22 - Fizyczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:12] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:14] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:15] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 4 (4 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:15] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 9 (9 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:15] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 7 (7 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:15] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 10 (10 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:16] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 9 (9 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:16] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 4 (4 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:16] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:16] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 4 (4 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:16] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 18 (18 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:16] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 7 (7 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:16] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:18] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:18] Valendur Jr'ein : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 2 pkt. z  - Fizyczne
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:18] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 19 (19 - Fizyczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:19] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 9 (9 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:20] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 13 (13 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:20] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 15 (15 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:20] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 3 (3 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:20] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 7 (7 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:20] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 9 (9 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:20] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 7 (7 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:20] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 6 (6 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:20] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 10 (10 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:20] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 3 (3 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:21] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:22] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:24] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 9 (9 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:24] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 13 (13 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:24] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 15 (15 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:24] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 9 (9 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:24] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 6 (6 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:24] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 9 (9 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:24] Valendur Jr'ein : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 1 pkt. z  - Fizyczne
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:24] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 15 (15 - Fizyczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:24] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 9 (9 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:24] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 13 (13 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:24] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 6 (6 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:24] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 9 (9 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:24] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:28] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:29] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:30] Valendur Jr'ein : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 2 pkt. z  - Fizyczne
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:30] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 22 (22 - Fizyczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:31] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:31] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:31] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:31] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:31] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:31] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:31] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:32] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:32] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:32] Czarek Czarowarek zadaje obra¿enia: Valendur Jr'ein: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:32] Otrzymane punkty doœwiadczenia: 360
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:32] Czarek Czarowarek zabija: Valendur Jr'ein
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:33] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:36] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:38] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:40] Czarek Czarowarek rzuca P³on¹ca Strza³a
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:42] Czarek Czarowarek rzuca P³on¹ca Strza³a
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:42] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (20 + 31 = 51 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:42] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *niepowodzenie* : (1 + 31 = 32 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:42] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (7 + 31 = 38 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:42] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (17 + 31 = 48 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:42] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (18 + 31 = 49 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:42] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (16 + 31 = 47 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:42] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (6 + 31 = 37 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:42] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (12 + 31 = 43 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:42] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (8 + 31 = 39 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:42] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:42] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:42] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:42] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:43] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:43] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:43] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:43] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 24 (24 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:43] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:44] Czarek Czarowarek rzuca P³on¹ca Strza³a
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:45] Czarek Czarowarek rzuca P³on¹ca Strza³a
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:45] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (17 + 31 = 48 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:45] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (9 + 31 = 40 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:45] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (16 + 31 = 47 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:45] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (3 + 31 = 34 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:45] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (20 + 31 = 51 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:45] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (20 + 31 = 51 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:45] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (6 + 31 = 37 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:45] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (11 + 31 = 42 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:45] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (16 + 31 = 47 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:45] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:45] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:45] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:45] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:46] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:46] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:46] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:46] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:46] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:47] Czarek Czarowarek rzuca P³on¹ca Strza³a
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:48] Czarek Czarowarek rzuca P³on¹ca Strza³a
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:48] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (4 + 31 = 35 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:48] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *niepowodzenie* : (1 + 31 = 32 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:48] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *niepowodzenie* : (1 + 31 = 32 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:48] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (11 + 31 = 42 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:48] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (2 + 31 = 33 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:48] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (16 + 31 = 47 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:48] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (5 + 31 = 36 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:48] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *niepowodzenie* : (1 + 31 = 32 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:48] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (13 + 31 = 44 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:49] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:49] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 24 (24 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:49] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:49] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:49] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:49] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:49] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 24 (24 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:49] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 24 (24 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:49] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:50] Czarek Czarowarek rzuca P³on¹ca Strza³a
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:51] Czarek Czarowarek rzuca P³on¹ca Strza³a
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:51] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (16 + 31 = 47 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:51] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (8 + 31 = 39 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:51] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (4 + 31 = 35 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:51] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (18 + 31 = 49 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:51] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (7 + 31 = 38 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:51] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (11 + 31 = 42 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:51] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (11 + 31 = 42 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:51] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (2 + 31 = 33 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:51] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (12 + 31 = 43 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:52] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:52] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:52] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:52] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:52] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:52] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:52] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:52] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:52] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:53] Czarek Czarowarek rzuca P³on¹ca Strza³a
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:54] Czarek Czarowarek rzuca P³on¹ca Strza³a
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:54] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (18 + 31 = 49 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:54] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (8 + 31 = 39 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:54] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (2 + 31 = 33 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:54] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (14 + 31 = 45 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:54] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (15 + 31 = 46 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:54] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (11 + 31 = 42 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:54] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (6 + 31 = 37 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:54] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *niepowodzenie* : (1 + 31 = 32 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:54] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (9 + 31 = 40 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:55] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:55] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 24 (24 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:55] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:55] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:55] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:55] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:55] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:55] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:55] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:56] Czarek Czarowarek rzuca P³on¹ca Strza³a
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:57] Czarek Czarowarek rzuca P³on¹ca Strza³a
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:57] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (7 + 31 = 38 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:57] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (13 + 31 = 44 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:57] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (3 + 31 = 34 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:57] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *niepowodzenie* : (1 + 31 = 32 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:57] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (2 + 31 = 33 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:57] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (14 + 31 = 45 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:57] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (8 + 31 = 39 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:57] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (18 + 31 = 49 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:57] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (16 + 31 = 47 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:58] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:58] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:58] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:58] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:58] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:58] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 24 (24 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:58] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:58] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:58] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:59] Czarek Czarowarek rzuca P³on¹ca Strza³a
+[CHAT WINDOW TEXT] [Mon Mar 22 08:18:59] julek94 odchodzi jako gracz..
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:00] Czarek Czarowarek rzuca P³on¹ca Strza³a
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:00] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *niepowodzenie* : (1 + 31 = 32 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:00] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (13 + 31 = 44 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:00] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (5 + 31 = 36 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:00] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (7 + 31 = 38 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:00] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (2 + 31 = 33 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:00] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (13 + 31 = 44 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:00] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (14 + 31 = 45 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:00] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (3 + 31 = 34 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:00] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (7 + 31 = 38 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:01] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:01] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:01] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:01] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:01] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:01] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:01] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:01] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 12 (12 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:01] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 24 (24 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:02] Czarek Czarowarek rzuca P³on¹ca Strza³a
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:03] Czarek Czarowarek rzuca P³on¹ca Strza³a
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:03] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (4 + 31 = 35 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:03] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (14 + 31 = 45 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:03] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (13 + 31 = 44 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:03] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (9 + 31 = 40 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:03] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (13 + 31 = 44 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:03] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (4 + 31 = 35 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:03] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (11 + 31 = 42 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:03] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (7 + 31 = 38 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:03] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (2 + 31 = 33 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:04] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 9 (9 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:04] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 15 (15 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:04] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 10 (10 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:04] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 9 (9 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:04] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 18 (18 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:04] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 17 (17 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:04] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 11 (11 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:04] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 9 (9 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:04] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 10 (10 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:05] Czarek Czarowarek rzuca P³on¹ca Strza³a
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:06] Czarek Czarowarek rzuca P³on¹ca Strza³a
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:06] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (19 + 31 = 50 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:06] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (7 + 31 = 38 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:06] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (15 + 31 = 46 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:06] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (6 + 31 = 37 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:06] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (9 + 31 = 40 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:06] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (15 + 31 = 46 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:06] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (14 + 31 = 45 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:06] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (8 + 31 = 39 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:06] Uniewiel Latonesh : Rzut obronny, Refleks przeciwko: Ogieñ : *sukces* : (6 + 31 = 37 przeciwko ST: 33)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:07] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 9 (9 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:07] Czarek Czarowarek zadaje obra¿enia: Uniewiel Latonesh: 17 (17 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:07] Otrzymane punkty doœwiadczenia: 360
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:07] Czarek Czarowarek zabija: Uniewiel Latonesh
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:11] Otrzymany Przedmiot: Pas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:16] Otrzymany Przedmiot: Zbroja
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:21] Zyskano 2376SZ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:22] Otrzymany Przedmiot: Z³oty Pierœcieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:23] Zyskano 2562SZ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:29] Zyskano 2262SZ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:32] Czarek Czarowarek rzuca Identyfikacja
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:33] Czarek Czarowarek rzuca Identyfikacja
+[CHAT WINDOW TEXT] [Mon Mar 22 08:19:45] Odpoczynek.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:20:15] Odpoczynek zakoñczony.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:20:15] Czarek Czarowarek rzuca Wiêksze Sanktuarium
+[CHAT WINDOW TEXT] [Mon Mar 22 08:20:16] Czarek Czarowarek rzuca Wiêksze Sanktuarium
+[CHAT WINDOW TEXT] [Mon Mar 22 08:20:19] Czarek Czarowarek rzuca Ulepszona Niewidzialnoœæ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:20:20] Czarek Czarowarek rzuca Ulepszona Niewidzialnoœæ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:20:23] [Serwer]You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:20:36] [Serwer]You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:21:17] [Serwer]You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:21:34] [Serwer]You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:21:55] [Serwer]You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:22:09] [Serwer]You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:22:29] [Serwer]You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:22:45] [Serwer]You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:23:02] [Serwer]You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:23:14] Czarek Czarowarek rzuca Tarcza Cieni
+[CHAT WINDOW TEXT] [Mon Mar 22 08:23:15] Czarek Czarowarek rzuca Tarcza Cieni
+[CHAT WINDOW TEXT] [Mon Mar 22 08:23:16] Czarek Czarowarek rzuca Klosz Niewra¿liwoœci
+[CHAT WINDOW TEXT] [Mon Mar 22 08:23:18] Czarek Czarowarek rzuca Klosz Niewra¿liwoœci
+[CHAT WINDOW TEXT] [Mon Mar 22 08:23:20] Czarek Czarowarek rzuca Kwasowa Opoka Mestila
+[CHAT WINDOW TEXT] [Mon Mar 22 08:23:21] Czarek Czarowarek rzuca Kwasowa Opoka Mestila
+[CHAT WINDOW TEXT] [Mon Mar 22 08:23:23] Czarek Czarowarek rzuca Tarcza ¯ywio³ów
+[CHAT WINDOW TEXT] [Mon Mar 22 08:23:25] Czarek Czarowarek rzuca Tarcza ¯ywio³ów
+[CHAT WINDOW TEXT] [Mon Mar 22 08:23:26] Czarek Czarowarek rzuca Zbroja Œmierci
+[CHAT WINDOW TEXT] [Mon Mar 22 08:23:27] Czarek Czarowarek rzuca Zbroja Œmierci
+[CHAT WINDOW TEXT] [Mon Mar 22 08:23:31] Czarek Czarowarek rzuca Epicki czar: Epicka tarcza
+[CHAT WINDOW TEXT] [Mon Mar 22 08:23:32] Czarek Czarowarek rzuca Palec Œmierci
+[CHAT WINDOW TEXT] [Mon Mar 22 08:23:34] Czarek Czarowarek rzuca Palec Œmierci
+[CHAT WINDOW TEXT] [Mon Mar 22 08:23:34] Demon próbuje odeprzeæ zaklêcie : niepowodzenie
+[CHAT WINDOW TEXT] [Mon Mar 22 08:23:34] Demon : Rzut obronny, Wytrwa³. przeciwko: Œmieræ : *niepowodzenie* : (5 + 29 = 34 przeciwko ST: 43)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:23:34] Otrzymane punkty doœwiadczenia: 360
+[CHAT WINDOW TEXT] [Mon Mar 22 08:23:34] Czarek Czarowarek zabija: Demon
+[CHAT WINDOW TEXT] [Mon Mar 22 08:23:34] Czarek Czarowarek : Rzut na inicjatywê : 15 : (16 - 1 = 15)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:23:34] Duch - postaæ jest otoczona aur¹.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:23:35] Duch - postaæ jest otoczona aur¹.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:23:36] Duch - postaæ jest otoczona aur¹.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:23:36] Duch - postaæ jest otoczona aur¹.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:23:36] Duch - postaæ jest otoczona aur¹.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:23:41] Zyskano 2718SZ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:23:42] Zyskano 2130SZ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:23:43] Otrzymany Przedmiot: Z³oty Naszyjnik
+[CHAT WINDOW TEXT] [Mon Mar 22 08:23:49] Otrzymany Przedmiot: Mikstura Leczenia Krytycznych Ran
+[CHAT WINDOW TEXT] [Mon Mar 22 08:23:49] Otrzymany Przedmiot: Z³oty Pierœcieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:23:49] Zyskano 2112SZ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:23:52] Otrzymany Przedmiot: Z³oty Naszyjnik
+[CHAT WINDOW TEXT] [Mon Mar 22 08:23:52] Zyskano 2316SZ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:23:58] Czarek Czarowarek : Rzut obronny, Si³a Woli przeciwko: Strach : *sukces* : (19 + 45 = 64 przeciwko ST: 18)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:23:58] Czarek Czarowarek : Rzut na inicjatywê : 6 : (7 - 1 = 6)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:24:00] Duch - postaæ jest otoczona aur¹.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:24:05] Duch - postaæ jest otoczona aur¹.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:24:06] Duch - postaæ jest otoczona aur¹.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:24:10] [Serwer]You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:24:11] Duch - postaæ jest otoczona aur¹.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:24:12] Duch - postaæ jest otoczona aur¹.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:24:12] Duch - postaæ jest otoczona aur¹.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:24:26] [Serwer]You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:30] [Serwer]You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:43] [Serwer]You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:47] Czarek Czarowarek : Rzut na inicjatywê : 4 : (5 - 1 = 4)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:48] Czarek Czarowarek atakuje: Wilko³ak : *trafienie* : (9 + 20 = 29)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:48] Wilko³ak atakuje: Czarek Czarowarek : *trafienie* : (10 + 47 = 57)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:48] Wilko³ak atakuje: Czarek Czarowarek : *trafienie* : (7 + 44 = 51)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:48] Wilko³ak atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (5 + 41 = 46)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:48] Wilko³ak próbuje: Og³uszaj¹ca Piêœæ na Czarek Czarowarek : *ukryty cel: 50%* : (13 + 41 = 54)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:48] Wilko³ak atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (2 + 38 = 40)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:48] Wilko³ak atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (8 + 35 = 43)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:48] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 5 (5 - Fizyczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:48] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 78 (78 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:48] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 44 (44 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:48] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 8 (8 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:48] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 25 pkt. obra¿eñ : Pozostaje: 1847 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:48] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 80 (80 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:48] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 41 (41 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:48] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 9 (9 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:48] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 28 pkt. obra¿eñ : Pozostaje: 1872 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:48] Wilko³ak próbuje: Og³uszaj¹ca Piêœæ na Czarek Czarowarek : *nieudane* : (2 + 45 = 47)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:48] Wilko³ak atakuje: Czarek Czarowarek : *trafienie* : (13 + 42 = 55)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:48] Wilko³ak atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (9 + 39 = 48)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:49] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 80 (80 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:49] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 44 (44 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:49] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 7 (7 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:49] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 25 pkt. obra¿eñ : Pozostaje: 1782 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:49] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 81 (81 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:49] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 40 (40 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:49] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 7 (7 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:49] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 21 pkt. obra¿eñ : Pozostaje: 1807 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:55] Czarek Czarowarek atakuje: Wilko³ak : *trafienie* : (12 + 20 = 32)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:55] Wilko³ak próbuje: Og³uszaj¹ca Piêœæ na Czarek Czarowarek : *nieudane* : (15 + 47 = 62)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:55] Wilko³ak atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (10 + 44 = 54)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:55] Wilko³ak atakuje: Czarek Czarowarek : *trafienie* : (13 + 41 = 54)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:56] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 5 (5 - Fizyczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:56] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 77 (77 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:56] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 43 (43 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:56] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 6 (6 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:56] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 15 pkt. obra¿eñ : Pozostaje: 1740 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:56] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 78 (78 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:56] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 44 (44 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:56] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 8 (8 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:56] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 27 pkt. obra¿eñ : Pozostaje: 1755 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:56] Wilko³ak atakuje: Czarek Czarowarek : *trafienie* : (18 + 45 = 63)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:56] Wilko³ak atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (17 + 42 = 59)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:56] Wilko³ak atakuje: Czarek Czarowarek : *trafienie* : (4 + 39 = 43)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:56] Wilko³ak atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (4 + 47 = 51)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:56] Wilko³ak atakuje: Czarek Czarowarek : *trafienie* : (9 + 44 = 53)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:56] Wilko³ak atakuje: Czarek Czarowarek : *trafienie* : (7 + 41 = 48)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:56] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 78 (78 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:56] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 40 (40 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:56] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 7 (7 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:56] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 16 pkt. obra¿eñ : Pozostaje: 1660 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:56] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 78 (78 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:56] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 44 (44 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:56] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 6 (6 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:56] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 28 pkt. obra¿eñ : Pozostaje: 1676 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:56] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 78 (78 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:56] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 43 (43 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:56] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 7 (7 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:56] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 17 pkt. obra¿eñ : Pozostaje: 1704 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:56] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 78 (78 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:56] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 39 (39 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:56] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 7 (7 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:56] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 19 pkt. obra¿eñ : Pozostaje: 1721 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:57] Wilko³ak atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (20 + 36 = 56)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:57] Wilko³ak atakuje: Czarek Czarowarek : *trafienie* : (11 + 33 = 44)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:57] Wilko³ak atakuje: Czarek Czarowarek : *trafienie* : (15 + 45 = 60)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:57] Wilko³ak atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (19 + 42 = 61)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:57] Wilko³ak atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (10 + 39 = 49)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:57] Wilko³ak atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (6 + 36 = 42)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:57] Wilko³ak atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (5 + 33 = 38)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:57] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 82 (82 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:57] Otrzymane punkty doœwiadczenia: 3
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:57] Czarek Czarowarek zabija: Wilko³ak
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:57] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 30 pkt. obra¿eñ : Pozostaje: 1630 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:57] Wilko³ak atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (7 + 45 = 52)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:57] Wilko³ak atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (1 + 39 = 40)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:57] Wilko³ak atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (5 + 42 = 47)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:57] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 78 (78 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:57] Otrzymane punkty doœwiadczenia: 3
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:57] Czarek Czarowarek zabija: Wilko³ak
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:57] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 21 pkt. obra¿eñ : Pozostaje: 1609 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:58] Wilko³ak atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (2 + 36 = 38)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:58] Wilko³ak atakuje: Czarek Czarowarek : *trafienie* : (2 + 33 = 35)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:59] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 82 (82 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:59] Otrzymane punkty doœwiadczenia: 3
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:59] Czarek Czarowarek zabija: Wilko³ak
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:59] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 25 pkt. obra¿eñ : Pozostaje: 1584 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:25:59] Wilko³ak atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (6 + 45 = 51)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:00] Wilko³ak atakuje: Czarek Czarowarek : *trafienie* : (4 + 42 = 46)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:00] Wilko³ak atakuje: Czarek Czarowarek : *trafienie* : (12 + 36 = 48)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:00] Wilko³ak atakuje: Czarek Czarowarek : *trafienie* : (15 + 33 = 48)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:00] Wilko³ak atakuje: Czarek Czarowarek : *trafienie* : (4 + 39 = 43)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:00] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 82 (82 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:00] Otrzymane punkty doœwiadczenia: 3
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:00] Czarek Czarowarek zabija: Wilko³ak
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:00] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 23 pkt. obra¿eñ : Pozostaje: 1561 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:00] Wilko³ak atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (13 + 30 = 43)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:00] Wilko³ak atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (10 + 45 = 55)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:00] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 80 (80 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:00] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 39 (39 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:00] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 9 (9 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:00] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 20 pkt. obra¿eñ : Pozostaje: 1479 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:00] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 80 (80 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:00] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 41 (41 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:00] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 6 (6 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:00] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 33 pkt. obra¿eñ : Pozostaje: 1499 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:00] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 29 pkt. obra¿eñ : Pozostaje: 1532 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:02] Wilko³ak atakuje: Czarek Czarowarek : *trafienie* : (2 + 30 = 32)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:02] Wilko³ak atakuje: Czarek Czarowarek : *pud³o* : (1 + 45 = 46)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:02] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 80 (80 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:02] Otrzymane punkty doœwiadczenia: 3
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:02] Czarek Czarowarek zabija: Wilko³ak
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:02] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 29 pkt. obra¿eñ : Pozostaje: 1450 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:03] Wilko³ak atakuje: Czarek Czarowarek : *trafienie* : (17 + 45 = 62)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:03] Wilko³ak atakuje: Czarek Czarowarek : *trafienie* : (12 + 42 = 54)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:03] Wilko³ak atakuje: Czarek Czarowarek : *trafienie* : (8 + 39 = 47)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:03] Czarek Czarowarek zadaje obra¿enia: Wilko³ak: 79 (79 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:03] Otrzymane punkty doœwiadczenia: 3
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:03] Czarek Czarowarek zabija: Wilko³ak
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:03] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 19 pkt. obra¿eñ : Pozostaje: 1386 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:03] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 23 pkt. obra¿eñ : Pozostaje: 1405 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:03] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 22 pkt. obra¿eñ : Pozostaje: 1428 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:10] Wolthagor - postaæ jest otoczona aur¹.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:11] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:12] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:12] Czarek Czarowarek : Rzut na inicjatywê : 8 : (9 - 1 = 8)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:12] Czarek Czarowarek : Rzut obronny, Si³a Woli przeciwko: Strach : *sukces* : (6 + 45 = 51 przeciwko ST: 23)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:13] Wolthagor atakuje: Czarek Czarowarek : *trafienie* : (2 + 62 = 64)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:13] Wolthagor atakuje: Czarek Czarowarek : *trafienie* : (5 + 59 = 64)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:13] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:13] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:13] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:13] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 19 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:13] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 59 (59 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:13] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 10 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:13] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 33 (33 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:13] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 8 (8 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:13] Wolthagor zadaje obra¿enia: Czarek Czarowarek: 15 (0 - Fizyczne 15 Kwas 0 Negatywna Energia)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:13] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 48 pkt. obra¿eñ : Pozostaje: 1288 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:13] Czarek Czarowarek : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 12 pkt. z  Negatywna Energia
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:13] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 19 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:13] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 58 (58 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:13] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 11 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:13] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 33 (33 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:13] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 6 (6 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:13] Wolthagor zadaje obra¿enia: Czarek Czarowarek: 14 (3 - Fizyczne 11 Kwas 0 Negatywna Energia)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:13] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 50 pkt. obra¿eñ : Pozostaje: 1336 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:13] Czarek Czarowarek : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 9 pkt. z  Negatywna Energia
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:13] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:14] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:14] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:14] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:14] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:14] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:14] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:14] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:14] Okazyjny atak : Wolthagor atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (14 + 62 = 76)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:15] Wolthagor atakuje: Czarek Czarowarek : *trafienie* : (12 + 53 = 65)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:15] Wolthagor atakuje: Czarek Czarowarek : *trafienie* : (5 + 44 = 49)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:16] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 19 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:16] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 60 (60 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:16] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 10 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:16] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 30 (30 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:16] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 8 (8 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:16] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 39 pkt. obra¿eñ : Pozostaje: 1152 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:16] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 20 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:16] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 61 (61 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:16] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 11 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:16] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 33 (33 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:16] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 9 (9 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:16] Wolthagor zadaje obra¿enia: Czarek Czarowarek: 22 (0 - Fizyczne 22 Kwas 0 Negatywna Energia)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:16] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 47 pkt. obra¿eñ : Pozostaje: 1191 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:16] Czarek Czarowarek : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 6 pkt. z  Negatywna Energia
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:18] Wolthagor atakuje: Czarek Czarowarek : *trafienie* : (19 + 41 = 60)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:18] Wolthagor atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (7 + 38 = 45)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:18] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 20 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:18] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 60 (60 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:18] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 10 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:18] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 33 (33 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:18] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 7 (7 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:18] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 48 pkt. obra¿eñ : Pozostaje: 1104 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:18] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:20] Wolthagor atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (15 + 55 = 70)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:20] Wolthagor atakuje: Czarek Czarowarek : *trafienie* : (15 + 52 = 67)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:20] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:20] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 20 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:20] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 62 (62 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:20] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 10 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:20] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 31 (31 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:20] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 8 (8 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:20] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 41 pkt. obra¿eñ : Pozostaje: 1063 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:20] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:20] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:21] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:21] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:21] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:21] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:21] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:21] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:21] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:21] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:22] Wolthagor atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (18 + 49 = 67)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:23] Wolthagor atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (15 + 46 = 61)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:23] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:23] Okazyjny atak : Wolthagor atakuje: Czarek Czarowarek : *trafienie* : (11 + 55 = 66)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:24] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 19 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:24] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 58 (58 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:24] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 10 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:24] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 31 (31 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:24] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 9 (9 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:24] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 37 pkt. obra¿eñ : Pozostaje: 1026 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:25] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:25] Wolthagor atakuje: Czarek Czarowarek : *trafienie krytyczne* : (20 + 55 = 75: Rzut na mo¿liwoœæ trafienia krytycznego: 5 + 55 = 60)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:25] Wolthagor atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (12 + 50 = 62)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:25] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 19 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:25] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 58 (58 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:25] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 9 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:25] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 30 (30 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:25] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 7 (7 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:25] Wolthagor zadaje obra¿enia: Czarek Czarowarek: 31 (31 - Fizyczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:25] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 50 pkt. obra¿eñ : Pozostaje: 976 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:26] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:26] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:26] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:26] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:26] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:26] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:26] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:26] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:26] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:27] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:27] Wolthagor atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (11 + 55 = 66)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:28] Wolthagor atakuje: Czarek Czarowarek : *trafienie* : (12 + 52 = 64)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:28] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 19 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:28] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 59 (59 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:28] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 9 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:28] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 30 (30 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:28] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 8 (8 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:28] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 36 pkt. obra¿eñ : Pozostaje: 940 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:29] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:29] Okazyjny atak : Wolthagor atakuje: Czarek Czarowarek : *trafienie* : (3 + 55 = 58)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:29] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 19 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:29] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 58 (58 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:29] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 11 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:29] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 33 (33 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:29] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 6 (6 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:29] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 35 pkt. obra¿eñ : Pozostaje: 905 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:30] Wolthagor atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (7 + 46 = 53)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:30] Wolthagor atakuje: Czarek Czarowarek : *trafienie* : (5 + 43 = 48)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:30] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 20 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:30] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 60 (60 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:30] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 9 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:30] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 30 (30 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:30] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 7 (7 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:30] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 40 pkt. obra¿eñ : Pozostaje: 865 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:30] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:31] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:31] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:31] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:31] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:31] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:31] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:31] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:31] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:31] Wolthagor atakuje: Czarek Czarowarek : *trafienie* : (10 + 55 = 65)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:31] Wolthagor atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (18 + 50 = 68)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:31] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:31] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:32] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 20 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:32] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 61 (61 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:32] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 10 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:32] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 30 (30 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:32] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 9 (9 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:32] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 37 pkt. obra¿eñ : Pozostaje: 828 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:32] Wolthagor próbuje: Og³uszaj¹ca Piêœæ na Czarek Czarowarek : *ukryty cel: 50%* : (8 + 55 = 63)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:33] Wolthagor atakuje: Czarek Czarowarek : *trafienie* : (5 + 52 = 57)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:33] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 20 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:33] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 62 (62 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:33] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 10 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:33] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 30 (30 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:33] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 6 (6 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:33] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 36 pkt. obra¿eñ : Pozostaje: 754 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:34] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:34] Okazyjny atak : Wolthagor atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (15 + 55 = 70)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:35] Wolthagor atakuje: Czarek Czarowarek : *trafienie* : (17 + 46 = 63)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:35] Wolthagor atakuje: Czarek Czarowarek : *trafienie* : (5 + 43 = 48)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:35] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:35] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 19 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:35] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 59 (59 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:35] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 10 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:35] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 33 (33 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:35] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 9 (9 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:35] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 33 pkt. obra¿eñ : Pozostaje: 651 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:35] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 20 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:35] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 62 (62 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:35] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 10 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:35] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 30 (30 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:35] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 9 (9 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:35] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 38 pkt. obra¿eñ : Pozostaje: 684 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:36] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:36] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:36] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:36] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:36] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:36] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:36] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:37] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:37] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:37] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:37] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:37] Wolthagor atakuje: Czarek Czarowarek : *trafienie* : (2 + 55 = 57)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:37] Wolthagor atakuje: Czarek Czarowarek : *trafienie* : (15 + 50 = 65)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:38] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 20 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:38] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 61 (61 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:38] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 10 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:38] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 32 (32 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:38] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 8 (8 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:38] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 36 pkt. obra¿eñ : Pozostaje: 578 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:38] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 19 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:38] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 60 (60 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:38] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 10 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:38] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 31 (31 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:38] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 6 (6 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:38] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 37 pkt. obra¿eñ : Pozostaje: 614 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:39] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:40] Wolthagor próbuje: Og³uszaj¹ca Piêœæ na Czarek Czarowarek : *ukryty cel: 50%* : (5 + 55 = 60)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:40] Wolthagor atakuje: Czarek Czarowarek : *trafienie* : (16 + 52 = 68)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:40] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 19 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:40] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 60 (60 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:40] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 11 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:40] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 33 (33 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:40] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 6 (6 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:40] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 37 pkt. obra¿eñ : Pozostaje: 503 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:40] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:40] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:40] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:40] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:40] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:40] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:40] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:41] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:41] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:41] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:41] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:42] Okazyjny atak : Wolthagor atakuje: Czarek Czarowarek : *trafienie* : (16 + 55 = 71)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:42] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 20 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:42] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 61 (61 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:42] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 10 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:42] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 32 (32 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:42] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 9 (9 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:42] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 39 pkt. obra¿eñ : Pozostaje: 464 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:42] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:43] Wolthagor atakuje: Czarek Czarowarek : *trafienie* : (13 + 46 = 59)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:43] Wolthagor atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (15 + 43 = 58)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:43] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:43] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 20 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:43] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 61 (61 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:43] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 10 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:43] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 32 (32 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:43] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 6 (6 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:43] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 38 pkt. obra¿eñ : Pozostaje: 426 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:43] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:43] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:43] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:44] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:44] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:44] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:44] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:44] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:44] Wolthagor atakuje: Czarek Czarowarek : *trafienie* : (15 + 55 = 70)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:44] Wolthagor atakuje: Czarek Czarowarek : *trafienie* : (14 + 50 = 64)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:44] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:44] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 20 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:44] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 60 (60 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:44] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 10 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:44] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 30 (30 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:44] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 9 (9 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:44] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 32 pkt. obra¿eñ : Pozostaje: 355 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:44] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 20 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:44] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 62 (62 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:44] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 11 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:44] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 33 (33 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:44] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 6 (6 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:44] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 39 pkt. obra¿eñ : Pozostaje: 387 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:45] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:45] Wolthagor atakuje: Czarek Czarowarek : *pud³o* : (1 + 55 = 56)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:45] Wolthagor atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (19 + 52 = 71)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:47] Wolthagor atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (1 + 49 = 50)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:47] Wolthagor atakuje: Czarek Czarowarek : *trafienie* : (6 + 46 = 52)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:47] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 19 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:47] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 58 (58 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:47] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 10 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:47] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 32 (32 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:47] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 9 (9 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:47] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 37 pkt. obra¿eñ : Pozostaje: 318 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:49] Czarek Czarowarek rzuca Wiêksze Sanktuarium
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:49] Okazyjny atak : Wolthagor atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (11 + 55 = 66)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:50] Wolthagor atakuje: Czarek Czarowarek : *trafienie* : (14 + 55 = 69)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:50] Wolthagor atakuje: Czarek Czarowarek : *trafienie* : (15 + 50 = 65)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:50] Czarek Czarowarek rzuca Wiêksze Sanktuarium
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:50] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 20 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:50] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 61 (61 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:50] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 10 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:50] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 32 (32 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:50] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 6 (6 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:50] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 35 pkt. obra¿eñ : Pozostaje: 211 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:50] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 19 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:50] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 59 (59 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:50] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 11 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:50] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 33 (33 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:50] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 6 (6 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:26:50] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 40 pkt. obra¿eñ : Pozostaje: 246 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:27:02] Odpoczynek.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:27:32] Odpoczynek zakoñczony.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:27:32] Czarek Czarowarek rzuca Tarcza Cieni
+[CHAT WINDOW TEXT] [Mon Mar 22 08:27:34] Czarek Czarowarek rzuca Tarcza Cieni
+[CHAT WINDOW TEXT] [Mon Mar 22 08:27:35] Czarek Czarowarek rzuca Tarcza ¯ywio³ów
+[CHAT WINDOW TEXT] [Mon Mar 22 08:27:37] Czarek Czarowarek rzuca Tarcza ¯ywio³ów
+[CHAT WINDOW TEXT] [Mon Mar 22 08:27:38] Czarek Czarowarek rzuca Zbroja Œmierci
+[CHAT WINDOW TEXT] [Mon Mar 22 08:27:40] Czarek Czarowarek rzuca Zbroja Œmierci
+[CHAT WINDOW TEXT] [Mon Mar 22 08:27:42] Czarek Czarowarek rzuca Klosz Niewra¿liwoœci
+[CHAT WINDOW TEXT] [Mon Mar 22 08:27:43] Czarek Czarowarek rzuca Klosz Niewra¿liwoœci
+[CHAT WINDOW TEXT] [Mon Mar 22 08:27:45] Czarek Czarowarek rzuca Kwasowa Opoka Mestila
+[CHAT WINDOW TEXT] [Mon Mar 22 08:27:47] Czarek Czarowarek rzuca Kwasowa Opoka Mestila
+[CHAT WINDOW TEXT] [Mon Mar 22 08:27:48] Czarek Czarowarek rzuca Ulepszona Niewidzialnoœæ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:27:49] Czarek Czarowarek rzuca Ulepszona Niewidzialnoœæ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:27:53] Czarek Czarowarek rzuca Epicki czar: Epicka tarcza
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:02] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:03] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:03] Czarek Czarowarek : Rzut na inicjatywê : 11 : (12 - 1 = 11)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:03] Czarek Czarowarek : Rzut obronny, Si³a Woli przeciwko: Strach : *sukces* : (20 + 45 = 65 przeciwko ST: 23)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:03] Wolthagor próbuje: Og³uszaj¹ca Piêœæ na Czarek Czarowarek : *nieudane* : (15 + 55 = 70)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:03] Wolthagor próbuje: Og³uszaj¹ca Piêœæ na Czarek Czarowarek : *ukryty cel: 50%* : (6 + 52 = 58)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:03] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 10 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:03] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 32 (32 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:03] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 9 (9 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:03] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 20 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:03] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 60 (60 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:04] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 34 pkt. obra¿eñ : Pozostaje: 1866 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:04] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:04] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:04] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:04] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:04] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:04] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:04] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:04] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:05] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:05] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:06] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:06] Okazyjny atak : Wolthagor atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (5 + 55 = 60)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:07] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:07] Wolthagor próbuje: Og³uszaj¹ca Piêœæ na Czarek Czarowarek : *nieudane* : (15 + 46 = 61)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:07] Wolthagor próbuje: Og³uszaj¹ca Piêœæ na Czarek Czarowarek : *nieudane* : (4 + 43 = 47)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:07] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:07] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 10 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:07] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 31 (31 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:07] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 7 (7 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:07] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 20 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:07] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 61 (61 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:07] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 33 pkt. obra¿eñ : Pozostaje: 1715 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:07] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 10 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:07] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 31 (31 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:07] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 9 (9 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:07] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 19 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:07] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 59 (59 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:07] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 43 pkt. obra¿eñ : Pozostaje: 1748 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:08] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:08] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:08] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:08] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:08] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:08] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:08] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:08] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:08] Wolthagor atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (6 + 55 = 61)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:08] Wolthagor atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (12 + 50 = 62)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:09] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:10] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:10] Wolthagor atakuje: Czarek Czarowarek : *trafienie* : (17 + 55 = 72)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:10] Wolthagor atakuje: Czarek Czarowarek : *trafienie* : (16 + 52 = 68)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:10] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 10 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:10] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 30 (30 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:10] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 9 (9 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:10] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 19 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:10] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 59 (59 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:10] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 32 pkt. obra¿eñ : Pozostaje: 1643 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:10] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 10 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:10] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 33 (33 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:11] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 6 (6 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:11] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 19 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:11] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 58 (58 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:11] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 40 pkt. obra¿eñ : Pozostaje: 1675 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:11] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:12] Wolthagor atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (16 + 49 = 65)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:12] Wolthagor atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (2 + 46 = 48)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:12] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:12] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:12] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:12] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:12] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:12] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:12] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:13] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:13] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:13] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:14] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:14] Okazyjny atak : Wolthagor atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (7 + 55 = 62)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:15] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:15] Wolthagor atakuje: Czarek Czarowarek : *trafienie* : (15 + 55 = 70)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:15] Wolthagor atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (7 + 50 = 57)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:16] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 10 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:16] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 32 (32 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:16] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 8 (8 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:16] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 20 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:16] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 61 (61 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:16] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 39 pkt. obra¿eñ : Pozostaje: 1562 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:16] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:16] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:16] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:16] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:16] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:17] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:17] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:17] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:17] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:17] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:18] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:18] Okazyjny atak : Wolthagor atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (6 + 55 = 61)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:18] Wolthagor atakuje: Czarek Czarowarek : *pud³o* : (1 + 52 = 53)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:18] Wolthagor atakuje: Czarek Czarowarek : *trafienie* : (7 + 49 = 56)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:19] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 10 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:19] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 30 (30 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:19] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 6 (6 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:19] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 20 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:19] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 61 (61 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:19] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 34 pkt. obra¿eñ : Pozostaje: 1489 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:19] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:20] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:20] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:20] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:20] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:20] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:20] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:20] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:20] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:20] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:20] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:21] Wolthagor atakuje: Czarek Czarowarek : *trafienie* : (14 + 46 = 60)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:21] Wolthagor atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (1 + 43 = 44)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:21] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 10 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:21] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 32 (32 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:21] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 9 (9 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:21] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 20 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:21] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 60 (60 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:21] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 35 pkt. obra¿eñ : Pozostaje: 1454 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:21] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:22] Wolthagor atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (10 + 55 = 65)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:22] Wolthagor atakuje: Czarek Czarowarek : *trafienie* : (6 + 50 = 56)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:22] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 10 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:22] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 31 (31 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:22] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 6 (6 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:22] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 19 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:22] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 58 (58 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:22] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 39 pkt. obra¿eñ : Pozostaje: 1415 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:23] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:23] Wolthagor atakuje: Czarek Czarowarek : *trafienie* : (16 + 55 = 71)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:23] Wolthagor atakuje: Czarek Czarowarek : *ukryty cel: 50%* : (14 + 52 = 66)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:23] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 11 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:23] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 33 (33 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:23] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 6 (6 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:23] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 19 pkt. z  Kwas
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:23] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 59 (59 Kwas)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:23] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 35 pkt. obra¿eñ : Pozostaje: 1380 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:24] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:24] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:24] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:24] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:24] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:24] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:25] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:25] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:25] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:25] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 12 (12 - Magiczne)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:25] Wolthagor atakuje: Czarek Czarowarek : *trafienie* : (18 + 49 = 67)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:25] Wolthagor atakuje: Czarek Czarowarek : *trafienie* : (17 + 46 = 63)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:25] Wolthagor : Niewra¿liwoœæ na obra¿enia pozwala zaabsorbowaæ 10 pkt. z  Ogieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:25] Czarek Czarowarek zadaje obra¿enia: Wolthagor: 31 (31 Ogieñ)
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:25] Otrzymane punkty doœwiadczenia: 360
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:25] Czarek Czarowarek zabija: Wolthagor
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:25] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 38 pkt. obra¿eñ : Pozostaje: 1304 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:25] Czarek Czarowarek : Zmniejszenie obra¿eñ pozwala zaabsorbowaæ 38 pkt. obra¿eñ : Pozostaje: 1342 pkt.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:26] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:27] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:30] Czarek Czarowarek rzuca Wiêksza Burza Pocisków Izaaka
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:32] Zyskano 2328SZ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:32] Otrzymany Przedmiot: Z³oty Pierœcieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:34] Otrzymany Przedmiot: Mikstura Leczenia Krytycznych Ran
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:35] Zyskano 2508SZ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:39] Otrzymany Przedmiot: Srebrny pierœcieñ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:39] Otrzymany Przedmiot: Mikstura Leczenia Krytycznych Ran
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:40] Zyskano 2526SZ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:42] Zyskano 2394SZ
+[CHAT WINDOW TEXT] [Mon Mar 22 08:28:43] Otrzymany Przedmiot: Srebrny naszyjnik
+[CHAT WINDOW TEXT] [Mon Mar 22 08:29:01] [Serwer]You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:29:06] Vae do³¹cza jako gracz..
+[CHAT WINDOW TEXT] [Mon Mar 22 08:29:13] [Serwer]You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Mar 22 08:29:14] Vae odchodzi jako gracz..
+[CHAT WINDOW TEXT] [Mon Mar 22 08:29:30] Vae do³¹cza jako gracz..
