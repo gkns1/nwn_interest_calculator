@@ -6,3 +6,5 @@ If someone logs out before the 48 minutes is up, the timer restarts and interest
 The logs are not utf-8 encoded, so regional characters are broken. It does not affect this script
 
 By default set up to returns interest accumulated until the current timestamp. Interest until the last logged event can be called by get_increments(login, left)
+
+Example output: The interest was accumulated 0 times, 29:50 minutes until the next accumulation.
